@@ -12,8 +12,7 @@
 
 
 # 📊 GitHub Stats:
-
-[![GitHub Streak](https://streak-stats.demolab.com/?acharyaranjit10=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/acharyaranjit10=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acharyaranjit10&theme=tokyonight)
 ### ✍️ Random Dev Quote
