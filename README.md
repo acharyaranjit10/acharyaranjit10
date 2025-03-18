@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Ranjit Acharya, a passionate developer who enjoys coding, music, Sports and creative writing.<br><br>🔭 Currently working on: Full Stack projects along side studying<br>🤝 Looking to collaborate on: Open-source projects, web development, and anything creative<br>🌱 Currently learning: Backend with Nodejs and Express<br>🎯 Fun fact: I have trust issues because of == and ===. 
+👋 Hi, I'm Ranjit Acharya, a passionate developer who enjoys coding, music, Sports and creative writing.<br><br>🔭 Currently working on: Full Stack projects along side studying<br>🤝 Looking to collaborate on: Open-source projects, web development, and anything creative<br>🌱 Currently learning: Backend with Nodejs and Express<br>
 
 
 ## 🌐 Socials:
